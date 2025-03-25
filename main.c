@@ -4,5 +4,6 @@
 int main() {
 	printf("Hello, Git Branch\n");
 	printf("new line1");
+	printf("new line2");
 	return 0;
 }
