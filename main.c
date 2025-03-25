@@ -1,7 +1,7 @@
-// main.c - 초기 프로젝트 생성
+ // main.c - feature-branch에서 수정
 #include <stdio.h>
 
 int main() {
-	printf("Hello world!\n");
+	printf("Hello, Git Branch\n");
 	return 0;
 }
