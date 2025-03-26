@@ -15,5 +15,6 @@ int main() {
 	printf("conflict test by feature");
 	printf("change by feature branch");
 
+	printf("12345");
 	return 0;
 }
