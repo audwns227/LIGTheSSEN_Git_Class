@@ -6,5 +6,6 @@ int main() {
 	printf("new line1");
 	printf("new line2");
 	printf("change new line");
+	printf("add by diff-branch 1st");
 	return 0;
 }
