@@ -9,8 +9,11 @@ int main() {
 	printf("add by diff-branch 1st");
 	printf("test change by diff branch");
 	printf("test change by feature branch");
+
 	printf("change by diff");
 	printf("conflict test by diff branch");
+	printf("conflict test by feature");
+	printf("change by feature branch");
 
 	return 0;
 }
