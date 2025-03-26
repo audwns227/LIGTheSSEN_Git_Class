@@ -8,5 +8,6 @@ int main() {
 	printf("change new line");
 	printf("add by diff-branch 1st");
 	printf("test change by feature branch");
+	printf("conflict test by feature");
 	return 0;
 }
